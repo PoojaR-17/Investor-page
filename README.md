@@ -32,7 +32,7 @@ You can view the live demo of the Investors Page [here](#). *(Replace with your 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/investors-page.git
+   git clone https://github.com/PoojaR-17/Investor-page
 Navigate into the project directory:
 
 bash
