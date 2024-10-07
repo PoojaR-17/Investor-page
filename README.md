@@ -13,7 +13,7 @@ This project is a simple web page designed to showcase board members and strateg
 
 ## Demo
 
-You can view the live demo of the Investors Page [here](#). *(Replace with your actual link)*
+ ![Investors Page](https://github.com/PoojaR-17/Investor-page/blob/main/Investor.png)
 
 ## Features
 
